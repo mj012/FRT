@@ -33,4 +33,18 @@ dentacare website is a platform that provides various healthcare services throug
 
 
 ### Screenshots :
+![Screenshot 2024-06-15 205810](https://github.com/mj012/FRT/assets/63608078/7e503ca8-5a36-4ab7-ba63-e7465e24a3bd)
+![Screenshot 2024-06-15 205834](https://github.com/mj012/FRT/assets/63608078/4ccc4ba6-dd82-41a2-86ac-eace266627d8)
+![Screenshot 2024-06-15 205847](https://github.com/mj012/FRT/assets/63608078/23976fa2-6cfa-4449-8b43-44e00fc1699e)
+![Screenshot 2024-06-15 205901](https://github.com/mj012/FRT/assets/63608078/19bbaada-2f47-4014-913f-1628305fe1f1)
+![image](https://github.com/mj012/FRT/assets/63608078/17f092c1-86c2-4345-9953-53c90cadddb0)
+
 ### Healthbot Screenshots:
+![Screenshot 2024-06-15 205103](https://github.com/mj012/FRT/assets/63608078/53f14eae-868e-4c29-b077-6baed5a47f48)
+![Screenshot 2024-06-15 205149](https://github.com/mj012/FRT/assets/63608078/3cc378ae-4aa8-4e96-8c33-fa8d3b823142)
+![Screenshot 2024-06-15 205254](https://github.com/mj012/FRT/assets/63608078/69483560-a499-4423-a3b6-f50e74f7b89d)
+![Screenshot 2024-06-15 205315](https://github.com/mj012/FRT/assets/63608078/3a3709c1-bda2-46b1-9b53-a07254d6f154)
+![Screenshot 2024-06-15 205511](https://github.com/mj012/FRT/assets/63608078/4dea8373-4b5c-446d-ba0d-78c4ffc9f476)
+![Screenshot 2024-06-15 205701](https://github.com/mj012/FRT/assets/63608078/9b7e7485-c106-40f6-b156-b01c4e2b48f5)
+
+
