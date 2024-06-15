@@ -1,8 +1,8 @@
-# Microsoft-Future-Ready-Talent-Virtual-Internship-Project
+Microsoft FRT Virtual-Internship-Project
 
 This is the our final project created for Microsoft Future Ready Talent Virtual Internship Program
 
-# denta care Website with Healthbot](https://agreeable-pebble-00a48290f.5.azurestaticapps.net/)
+# dental care Website with Healthbot](https://agreeable-pebble-00a48290f.5.azurestaticapps.net/)
 
 Project Link :https://agreeable-pebble-00a48290f.5.azurestaticapps.net
 
